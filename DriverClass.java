@@ -1,6 +1,3 @@
-package com.greatlearning.services;
-import com.greatlearning.model.*;
-
 public class DriverClass {
 	public static void main(String[] args) {
 		AdminDepartment a = new AdminDepartment();
