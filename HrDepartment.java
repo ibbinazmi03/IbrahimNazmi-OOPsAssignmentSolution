@@ -1,5 +1,3 @@
-package com.greatlearning.model;
-
 public class HrDepartment extends SuperDepartment {
 	public String departmentName() {
 		String s = "HR Department";
